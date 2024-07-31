@@ -10,3 +10,6 @@ Hidrogeno-fluor. (H, F)
 Hidrogeno-SOodio (H, NA)
 
 # reacciones de isomerizaciòn
+
+Bravy-kitaev
+
